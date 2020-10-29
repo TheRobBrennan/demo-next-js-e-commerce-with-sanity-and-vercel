@@ -27,5 +27,13 @@
   },
   "keywords": [],
   "author": "Sanity.io <hello@sanity.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/demo-next-js-e-commerce-with-sanity-and-vercel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/demo-next-js-e-commerce-with-sanity-and-vercel/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/demo-next-js-e-commerce-with-sanity-and-vercel#readme"
 }
